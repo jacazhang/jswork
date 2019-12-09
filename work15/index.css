@@ -80,7 +80,7 @@
 .cart-del:hover,
 .cart-all:hover,
 .cart-unall:hover,
-.cart-agcheck:hove {
+.cart-agcheck:hover {
     text-decoration: underline;
     cursor:pointer
 }
